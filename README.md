@@ -1,6 +1,15 @@
 # OpenAI-Extended-Library
 This is a C# library for interacting with the OpenAI API. The library provides a simple and easy-to-use interface for a wide range of AI tasks, including:
 
+# READ THIS
+The source above is an old source that will no longer be updated. It was simiply to prove a point to somebody. All releases after that will be closed source. 
+
+What's being added in the next update?
+Code Generation
+Chat Bot
+Making everything thread safe
+
+
 ## Getting Started
 
 To start using the OpenAI C# Library, you'll need an API key from OpenAI. You can sign up for an API key [here](https://beta.openai.com/signup/).
