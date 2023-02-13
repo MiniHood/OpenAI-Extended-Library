@@ -1,26 +1,11 @@
 # OpenAI-Extended-Library
 This is a C# library for interacting with the OpenAI API. The library provides a simple and easy-to-use interface for a wide range of AI tasks, including:
 
-# What's coming in the next update?
-## General (NEXT UPDATE)
-- Making everything thread safe
-- Ease of use features
-- Streaming Compatibility
-- Loading api key from file
-- Chat Bot Feature
+# PLEASE READ
 
-## Translation (NEXT UPDATE) 
-- TTS Translation
-- Text Translation
-- Text Similarity
+This is a open source old version, it doesn't have the features that my paid version does.
 
-## Code (NEXT UPDATE)
-- Code Generation
-- Code Translation
-
-## Image (NEXT UPDATE)
-- Image editing 
-- Image generation
+The paid version is available in releases with a trial period. It is NOT for commerical use and shall not be used as such. You can use in for personal use but the pop up will be annoying. Please note if you'd like to purchase the full version it will be available on my website.
 
 ## Getting Started
 
